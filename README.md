@@ -1,6 +1,6 @@
 # ⚡ ZETHA-Core
 
-![ZETHA Logo](assets/zetha_logo.png)
+![ZETHA Logo](Assets/ZETHA Logo.jpg)
 
 > **Future. Found.** > The first open-source commerce protocol built on human trust, not algorithms.
 
